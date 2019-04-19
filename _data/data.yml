@@ -12,14 +12,14 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: sharma[dot]avneesh18[@]gmail[dot]com
+    email: sharma[.]avneesh18[@]gmail[.]com
     website: sharmaavneesh.github.com #do not add http://
     linkedin: avneesh-sharma
     github: sharmaavneesh
 
     languages:
       - idiom: Java
-        level: Native
+        level: 
 
       - idiom: French
         level: Professional
