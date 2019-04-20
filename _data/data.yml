@@ -17,16 +17,6 @@ sidebar:
     linkedin: avneesh-sharma
     github: sharmaavneesh
 
-    languages:
-      - idiom: Java
-        level: High
-
-      - idiom: JavaScript
-        level: Medium
-
-      - idiom: Python
-        level: Medium
-
 career-profile:
     title: Career Profile
     summary: |
@@ -44,113 +34,84 @@ education:
 experiences:
     - role: Product Developer Intern
       time: 2015 - Present
-      company: Willow Senior Placement Platform, Buffalo
+      company: Willow Senior Placement Platform, Buffalo, USA
       details: |
         I was hired as first employee of the company as a Product Developer Intern. Leveraging my extensive experience 
         in technology, I advised the founder on software perspective. Helped the founder from evaluation, planning to requirement 
         assesment. I also developed the initial MVP for beta launch.
 
           - Developed MVP product from scratch in one month for healthcare facilities to manage rooms and services.
-	  - Architected application including database design, UI and backend in MEAN (Mongodb, Express, Angular, Nodejs) stack.
-	  - Demonstrated product to multiple investment firms in seed fund pitches for company; got funded in April 2019.
-	  - Hired and managed a UI engineer for further development of product.
+	      - Architected application including database design, UI and backend in MEAN (Mongodb, Express, Angular, Nodejs) stack.
+	      - Demonstrated product to multiple investment firms in seed fund pitches for company; got funded in April 2019.
+	      - Hired and managed a UI engineer for further development of product.
 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Software Engineer
+      time: 2015 - 2018
+      company: SAP Ariba, Bangalore, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I worked with multiple teams in development of new product features. Having a previous product development
+        experience, I was entrusted with complex features. I also was one of the few members to launch a new product
+        offering in direct material processing.
 
-          - Bullet point
-          - Bullet point
+          - Filed patent (US Patent Office) for building a critical feature to serve to a new customer base from service-based industries.
+          - Built a product feature to enable enterprises’ month-wise negotiation with suppliers for next 3 years simultaneously.
+          - Designed REST APIs and a message dashboard to increase productivity by 10% for easy product usage in non-technical teams.
+          - Delivered a feature of reusing/modifying contracts before timeline to meet an urgent requirement for a high-profile customer.
+          - Conducted training on SAP Ariba products and integration with SAP ERP & cXML standards for data exchange.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+
+    - role: Software Development Specialist
+      time: 2012 - 2015
+      company: Verifone, Bangalore, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I worked on payment devices which are used to pay on the store counters, also called point of sale.
+        As part of my work, I wrote many features in robust and secure way while making easy to use for the
+        cashier. I unblocked many failures which are critical yet highly difficult to fix.
 
-          - Bullet point
-          - Bullet point
+          - Built ‘Backup and Restore’ feature for payment module to retrieve local transactions on point of sale devices.
+          - Boosted 10% (approx.) efficiency at point of sale counters by re-designing a touch-based receipt print.
+          - Improved performance of multiple payment scenarios by reducing transaction time by 60% on average.
+          - Initiated practice of writing unit tests in team; wrote 100+ unit tests for old features to enhance product quality.
+
+    - role: Software Developer
+      time: 2010 - 2012
+      company: Yodlee, Bangalore, India
+      details: |
+        I was hired straight out of college to work in a data intensive product for personal finance management.
+        The team was tasked to develop multiple integration with web services from financial institutions
+        to gather data.
+
+          - Designed 40 Yodlee APIs to interact with bank web-services for gathering financial data.
+          - Developed 50 new bank integrations to expand scope of product in personal finance management.
+          - Maintained data gathering bots for financial institutions such as Bank of America for 100% accuracy.
+          - Liaised as a single point of contact for team during 10+ product deployments
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Roof-top Machine Inspection by Drone for RICH PRODUCTS company
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Developed a system for rooftop machine inspection by drones rather than a human for better preventive
+        maintenance and increased human safety. Also, integrated the drone media with company's SAP PM and network
+        drives."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Javascript
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: python
+        level: 70%
+
+      - name: HTML5 & CSS
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
