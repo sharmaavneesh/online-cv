@@ -38,14 +38,13 @@ experiences:
       details: |
         I was hired as first employee of the company as a Product Developer Intern. Leveraging my extensive experience 
         in technology, I advised the founder on software perspective. Helped the founder from evaluation, planning to requirement 
-        assesment. I also developed the initial MVP for beta launch.
+        assesment. I also developed the initial MVP for beta launch.   
 
           - Developed MVP product from scratch in one month for healthcare facilities to manage rooms and services.
-	  - Architected application including database design, UI and backend in MEAN (Mongodb, Express, Angular, Nodejs) stack.
-	  - Demonstrated product to multiple investment firms in seed fund pitches for company; got funded in April 2019.
-	  - Hired and managed a UI engineer for further development of product.
-
-
+          - Architected application including database design, UI and backend in MEAN (Mongodb, Express, Angular, Nodejs) stack.
+          - Demonstrated product to multiple investment firms in seed fund pitches for company; got funded in April 2019.
+          - Hired and managed a UI engineer for further development of product.
+	  
     - role: Software Engineer
       time: 2015 - 2018
       company: SAP Ariba, Bangalore, India
