@@ -37,13 +37,14 @@ experiences:
       company: Willow Senior Placement Platform, Buffalo, USA
       details: |
         I was hired as first employee of the company as a Product Developer Intern. Leveraging my extensive experience 
-        in technology, I advised the founder on software perspective. Helped the founder from evaluation, planning to requirement 
-        assesment. I also developed the initial MVP for beta launch.   
+        in technology, I advised the founder on various technologies. Helped the founder from evaluation, planning to requirement 
+        assesments. And eventually, I also developed the initial MVP for beta launch, which was launched on 2nd of May.   
 
-          - Developed MVP product from scratch in one month for healthcare facilities to manage rooms and services.
-          - Architected application including database design, UI and backend in MEAN (Mongodb, Express, Angular, Nodejs) stack.
-          - Demonstrated product to multiple investment firms in seed fund pitches for company; got funded in April 2019.
-          - Hired and managed a UI engineer for further development of product.
+          - Developed MVP (Minimum Viable Product) from scratch in one month for health care facilities to manage rooms and services
+          - Designed application including database, UI, backend, and deployment in MEAN (MongoDB, Express, Angular, Nodejs) stack
+          - Created CI/CD pipeline for development, stage and production environments in Heroku Cloud and GitHub
+          - Led a team of three software developers for further development of product – recruited, assigned tasks and reviewed codes
+          - Pitched the product to multiple investment firms and successfully got funded in April 2019 [link]
 
 
     - role: Software Engineer
